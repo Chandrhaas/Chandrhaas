@@ -10,7 +10,8 @@ I am a college student passionate about leveraging data and algorithms to solve 
 * 🏆 **Competitive Programming:** Active on Codeforces, consistently working to improve my algorithmic thinking and problem-solving speed.
 
 ### 💻 What I'm Working On
-* ⚙️ **Risk-Engine:** Building a high-performance system utilizing **Python** for data handling and **C++** for high-speed Monte Carlo simulations to calculate Value at Risk(VaR) and Expected Shortfall. 
+* **Risk-Engine:** Building a high-performance system utilizing **Python** for data handling and **C++** for high-speed Monte Carlo simulations to calculate Value at Risk(VaR) and Expected Shortfall.
+* **Earnings-Call-Alpha-Engine:**
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C++, Python
