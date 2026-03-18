@@ -19,6 +19,7 @@ I am a college student passionate about leveraging data and algorithms to solve 
 
 ### 📫 Let's Connect!
 * **Codeforces:** [chandrhaas](https://codeforces.com/profile/chandrhaas)
+* **Linkedin:** [https://www.linkedin.com/in/harshit-shukla12/]
 
 <!--
 **Chandrhaas/Chandrhaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
