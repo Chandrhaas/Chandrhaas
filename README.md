@@ -14,8 +14,8 @@ I am a college student passionate about leveraging data and algorithms to solve 
 * **Earnings-Call-Alpha-Engine:**
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** C++, Python
-* **Interests:** Machine Learning, Monte Carlo Simulations, Data Analysis, Finance
+* **Languages:** C++, Python, fastapi
+* **Interests:** Machine Learning, Deep Learning, Maths, Data Analysis, Finance
 
 ### 📫 Let's Connect!
 * **Codeforces:** [chandrhaas](https://codeforces.com/profile/chandrhaas)
