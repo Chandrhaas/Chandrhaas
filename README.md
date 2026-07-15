@@ -2,7 +2,7 @@ Hi there, I'm Chandrhaas!
 
 **Machine Learning Enthusiast | Competitive Programmer**
 
-I am a college student passionate about leveraging data and algorithms to solve complex problems, particularly in the intersection of machine learning and finance. I am actively looking for **internship opportunities starting in mid-2026**.
+I am a college student passionate about leveraging data and algorithms to solve complex problems, particularly in the intersection of machine learning and finance.
 
 ### 🚀 About Me
 * 🎓 **Currently Studying:** College student focused on maths, computer science and algorithmic problem solving.
