@@ -25,7 +25,6 @@ C++ · pybind11 · FastAPI · PyTorch
 ## 🏆 Competitive Programming
 
 **Codeforces:** [Chandrhaas](https://codeforces.com/profile/Chandrhaas) · Max Rating: 1098
-**ICPC 2025:** 1st in batch · 6th overall across all JIIT-affiliated universities
 
 ---
 
