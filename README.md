@@ -1,26 +1,43 @@
-Hi there, I'm Chandrhaas! 
+# Hi, I'm Harshit 👋
 
-**Machine Learning Enthusiast | Competitive Programmer**
+**Mathematics & Computing @ JIIT Noida | ML Engineer | Competitive Programmer**
 
-I am a college student passionate about leveraging data and algorithms to solve complex problems, particularly in the intersection of machine learning and finance.
+I build systems at the intersection of machine learning and quantitative finance —
+things that are mathematically rigorous and engineered to production quality.
 
-### 🚀 About Me
-* 🎓 **Currently Studying:** College student focused on maths, computer science and algorithmic problem solving.
-* 💡 **Areas of Interest:** Machine Learning, Finance, and Data Engineering.
-* 🏆 **Competitive Programming:** Active on Codeforces, consistently working to improve my algorithmic thinking and problem-solving speed.
+---
 
-### 💻 What I'm Working On
-* **Risk-Engine:** Building a high-performance system utilizing **Python** for data handling and **C++** for high-speed Monte Carlo simulations to calculate Value at Risk(VaR) and Expected Shortfall.
-* **Earnings-Call-Alpha-Engine:**
+## 🔨 What I've Built
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** C++, Python, fastapi
-* **Interests:** Machine Learning, Deep Learning, Maths, Data Analysis, Finance
+**[NLP Alpha Signal Engine](https://github.com/Chandrhaas/Earnings-Call-Alpha-Engine)**
+FinBERT + Loughran-McDonald hybrid pipeline that detects corporate doublespeak
+in earnings calls and generates buy/sell signals. 70.8% directional hit rate
+across 263 transcripts. FastAPI · PyTorch · HuggingFace · Docker
 
-### 📫 Let's Connect!
-* **Codeforces:** [chandrhaas](https://codeforces.com/profile/chandrhaas)
-* **Linkedin:** [https://www.linkedin.com/in/harshit-shukla12/]
+**[Quantitative Risk Engine](https://github.com/Chandrhaas/Value-at-Risk-Engine---python-and-cpp)**
+C++ Monte Carlo simulation core (Cholesky + GBM) bridged to a Python FastAPI
+service via pybind11 zero-copy memory transfers. Computes 95% VaR, 99% VaR,
+and CVaR. Currently adding a Quantile Regression NN as a second estimation method.
+C++ · pybind11 · FastAPI · PyTorch
 
+---
+
+## 🏆 Competitive Programming
+
+**Codeforces:** [Chandrhaas](https://codeforces.com/profile/Chandrhaas) · Max Rating: 1098
+**ICPC 2025:** 1st in batch · 6th overall across all JIIT-affiliated universities
+
+---
+
+## 🛠 Stack
+
+C++ · Python · PyTorch · HuggingFace Transformers · FastAPI · Docker · pybind11 · SQL
+
+---
+
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/harshit-shukla12/) · [Codeforces](https://codeforces.com/profile/Chandrhaas)
 <!--
 **Chandrhaas/Chandrhaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
