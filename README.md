@@ -1,6 +1,6 @@
 # Hi, I'm Harshit 👋
 
-**Mathematics & Computing @ JIIT Noida | ML Engineer | Competitive Programmer**
+ **ML Engineer | Competitive Programmer**
 
 I build systems at the intersection of machine learning and quantitative finance —
 things that are mathematically rigorous and engineered to production quality.
